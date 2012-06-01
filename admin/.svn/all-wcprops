@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/286822/download-monitor/trunk/admin
+END
+save_order.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/201548/download-monitor/trunk/admin/save_order.php
+END
+add_directory.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/314114/download-monitor/trunk/admin/add_directory.php
+END
+log_to_csv.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/226334/download-monitor/trunk/admin/log_to_csv.php
+END
+add_new.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/241534/download-monitor/trunk/admin/add_new.php
+END
+logs.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/308497/download-monitor/trunk/admin/logs.php
+END
+add_category.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/314614/download-monitor/trunk/admin/add_category.php
+END
+categories.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/314114/download-monitor/trunk/admin/categories.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/308497/download-monitor/trunk/admin/config.php
+END
+dashboard.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/286822/download-monitor/trunk/admin/dashboard.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/314114/download-monitor/trunk/admin/admin.php
+END
